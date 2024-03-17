@@ -1,6 +1,6 @@
 ---
-title: "A Book"
-author: "Frida Gomam"
+title: "NICE Research Group Homepage"
+author: "Moin Syed"
 site: bookdown::bookdown_site
 documentclass: book
 output:
@@ -10,7 +10,7 @@ output:
 
 # Hello World
 
-Hi.
+Hi this is the NICE Website.
 
 Bye.
 
