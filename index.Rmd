@@ -4,11 +4,11 @@ author: "Moin Syed"
 site: bookdown::bookdown_site
 documentclass: book
 output:
-  bookdown::gitbook: default
+  bookdown::bs4_book: default
   #bookdown::pdf_book: default
 ---
 
-# Hello World
+# Welcome
 
 Hi this is the NICE Website.
 

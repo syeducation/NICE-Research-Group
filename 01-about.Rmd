@@ -1,0 +1,7 @@
+# About {#about}
+
+This is the page where we give some details about the NICE Research Group
+
+## History
+
+Here we will get into some of the history of the NICE Research Group
