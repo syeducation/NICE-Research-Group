@@ -2,6 +2,16 @@
 
 This is the page where we give some details about the NICE Research Group
 
+## Philosophy
+
+
+
 ## History
 
 Here we will get into some of the history of the NICE Research Group
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/whiterat_front.jpg")
+```
+
+this is a nice book cover, eh?

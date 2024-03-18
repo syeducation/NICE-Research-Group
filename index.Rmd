@@ -10,8 +10,8 @@ output:
 
 # Welcome
 
-Hi this is the NICE Website.
+The NICE Research Group is a researcher collective based in the Department of Psychology at the University of Minnesota. The activities of the group span a wide variety of topics across cultural, developmental, and personality psychology, and place a strong emphasis on metascientific thinking and open science practices. 
 
-Bye.
+
 
 <!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
